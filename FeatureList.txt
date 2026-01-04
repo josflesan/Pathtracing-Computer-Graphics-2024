@@ -1,0 +1,19 @@
+Features Implemented    | Implemented | Evidence
+
+Basic Raytracer 1       | Yes         | Yes
+Basic Raytracer 2       | Yes         | Yes
+Basic Raytracer 3       | Yes         | Yes
+Basic Raytracer 4       | Yes         | Yes
+Basic Raytracer 5       | Yes         | Yes
+Basic Raytracer 6       | Yes         | Yes
+Basic Raytracer 7       | Yes         | Yes
+Basic Raytracer 8       | Yes         | Yes
+Basic Raytracer 9       | Yes         | Yes
+Basic Raytracer 10      | Yes         | Yes
+Basic Raytracer 11      | Yes         | Qualitative
+
+Pathtracer 1            | Yes         | Yes
+Pathtracer 2            | Yes         | Yes
+Pathtracer 3            | Yes         | Yes
+Pathtracer 4            | Yes         | Yes
+Pathtracer 5            | Yes         | Yes
